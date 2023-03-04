@@ -1,1 +1,1 @@
-# Javascript_clock_javascript_playground
+# Javascript_clock
