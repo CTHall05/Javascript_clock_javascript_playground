@@ -1,34 +1,27 @@
 # Javascript Clock
 
-Vanilla JavaScript Clock Project
-This is a simple web page project that displays a clock using Vanilla JavaScript. The project has been built using HTML, CSS, and JavaScript. It also includes automated testing using Jest.
+A real time digital clock made with vanilla HTML, CSS and Javascript.
+Testing was done using Jest.
 
-Getting Started
-Prerequisites
-To run this project, you will need a web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge.
+## Cloning down repo and Installation
 
-Installation
-Clone this repository to your local machine
-Open the index.html file in your web browser.
-Usage
-Once you have the project running, you should see a clock displayed on the screen. The clock will update in real-time and display the current time.
+```bash
 
-Testing
-This project includes automated testing using Jest. To run the tests, you will need to have Jest installed. If you do not have Jest installed, you can install it using the following command:
+git clone https://github.com/your_github_username/Javascript_clock_javascript_playground.git
 
-css
-Copy code
-npm install --save-dev jest
-Once you have Jest installed, you can run the tests using the following command:
+npm i
 
-bash
-Copy code
+npm install jest --global 
+```
+
+## Usage
+
+Go to the index.html file and open with live server. If you do not have it download the extension for your code editor. Once you do you can right click when you are in the index.html file and you should see an option: "open with live server". This will open a tab in your internet browser that will allow you to view the project.
+
+To check the tests for this project, open up a terminal and write what is below:
+
+```
 npm test
-The tests will run automatically and display the results in the terminal.
+```
 
-Built With
-HTML
-CSS
-JavaScript
-Jest
-Authors: Taylor Hall
+Authors: Taylor
