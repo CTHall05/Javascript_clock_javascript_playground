@@ -24,4 +24,4 @@ To check the tests for this project, open up a terminal and write what is below:
 npm test
 ```
 
-Authors: Taylor
+Authors: <br>Taylor Hall
